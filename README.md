@@ -11,6 +11,7 @@ You only can use this palettes
 ### Day 1
 * **Mandatory**
 	* Apple **(16 X 16)**
+    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Apple_resized.png)
 * **Optional**
 	* Tomato **(16 x 16)**
 ### Day 2
