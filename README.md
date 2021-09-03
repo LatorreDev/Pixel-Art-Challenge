@@ -14,6 +14,7 @@ You only can use this palettes
     ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Apple_resized.png)
 * **Optional**
 	* Tomato **(16 x 16)**
+    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Tomato_resized.png)
 ### Day 2
 * **Mandatory**
 	* Sword **(24 X 24)**
