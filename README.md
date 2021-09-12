@@ -18,9 +18,13 @@ You only can use this palettes
 ### Day 2
 * **Mandatory**
 	* Sword **(24 X 24)**
+	![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_2/sword.png)
+	
 * **Optional**
 	* Potion **(16 x 16)**
-Investigate about double pixels 
+	![Alt text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_2/resized-potion-export.png)
+Investigate about double pixels
+	* This is about avoid 90 grades angles in your lines
 ### Day 3
 * **Mandatory**
 	* Vase **(32 X 32)**
