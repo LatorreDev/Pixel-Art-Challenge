@@ -11,10 +11,10 @@ You only can use this palettes
 ### Day 1
 * **Mandatory**
 	* Apple **(16 X 16)**
-    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Apple_resized.png)
+    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Apple.png)
 * **Optional**
 	* Tomato **(16 x 16)**
-    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Tomato_resized.png)
+    ![Alt Text](https://github.com/LatorreDev/Pixel-Art-Challenge/blob/main/Day_1/Tomato.png)
 ### Day 2
 * **Mandatory**
 	* Sword **(24 X 24)**
